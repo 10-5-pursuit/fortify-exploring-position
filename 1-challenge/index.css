@@ -1,0 +1,52 @@
+body {
+    background-color: hsl(220deg 38% 94%);
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', Arial, sans-serif;
+}
+
+section {
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+div {
+    background-color: hsl(249deg 100% 97%);
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: hsl(247deg 59% 60%);
+}
+
+h1 {
+    font-size: 25pt;
+    font-weight: 500;
+    width: 300px;
+}
+
+p {
+    color: hsl(0deg 0% 64%);
+    width: 300px;
+    font-size: 13pt;
+    line-height: 25px;
+}
+
+button {
+    cursor: pointer;
+    color: hsl(247deg 59% 60%);
+    border: 2px solid hsl(247deg 59% 60%);
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    font-weight: 700;
+}
+
+span {
+    font-weight: 700;
+}
